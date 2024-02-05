@@ -1,0 +1,19 @@
+{
+  "name": "email",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler publish",
+    "start": "wrangler dev"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230419.0",
+    "itty-router": "^4.0.9",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "wrangler": "^3.1.1",
+    "zod": "^3.22.4"
+  }
+}
