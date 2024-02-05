@@ -1,3 +1,3 @@
-# Email Proxy
+# Email Service
 
-Small email proxy for Mailchannels for local development and production use.
+Email proxy for Mailchannels for local development and production use.
