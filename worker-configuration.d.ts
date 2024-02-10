@@ -1,3 +1,4 @@
 interface Env {
-	TOKEN: string;
+  TOKEN: string;
+  log: KVNamespace;
 }

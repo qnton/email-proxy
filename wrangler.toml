@@ -1,4 +1,7 @@
-name = "email"
+name = "email-proxy"
 main = "index.ts"
 compatibility_date = "2023-05-18"
 
+kv_namespaces = [
+  { binding = "log", id = "cfa4e6ed8c054bf5bcb3cb4d0ab107fb", preview_id = "cec98816e55748fd958c0fec7db67131" },
+]
